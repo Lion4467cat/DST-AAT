@@ -1,4 +1,4 @@
-def twoStacks(maxSum, a, b):
+def two_stacks(maxSum, a, b):
     count = 0
     sum = 0
     i = 0
