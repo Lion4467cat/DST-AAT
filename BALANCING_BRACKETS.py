@@ -8,7 +8,7 @@ import sys
 
 
 
-def isBalanced(s):
+def IsBalanced(s):
     stack = []
     bracket_map = {')': '(', '}': '{', ']': '['}
     
